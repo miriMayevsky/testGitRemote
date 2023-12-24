@@ -6,8 +6,15 @@ import './a.html'
 
 function App() {
   const [count, setCount] = useState(0)
-  const g=5;
-  console.log(g*7)
+  const size=5;
+  console.log(size)
+  console.log(size*7)
+
+  console.log('hello')
+  console.log('newMiri')
+ 
+  console.log('second confilct')
+
   console.log(index.toString())
   console.log('first')
   const arr=[1,2,3];
