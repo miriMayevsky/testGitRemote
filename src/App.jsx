@@ -6,11 +6,14 @@ import './a.html'
 
 function App() {
   const [count, setCount] = useState(0)
-  const g=5;
+  const size=5;
+  console.log(size)
   console.log('hello')
   console.log('newMiri')
   const a=[1,2,3];
   console.log(a)
+  console.log('second confilct')
+
   return (
     <>
       <div>
