@@ -10,8 +10,8 @@ function App() {
   console.log(g*7)
   console.log(index.toString())
   console.log('first')
-  const a=[1,2,3];
-  console.log(a)
+  const arr=[1,2,3];
+  console.log(arr)
   return (
     <>
       <div>
