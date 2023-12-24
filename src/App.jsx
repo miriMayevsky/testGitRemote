@@ -8,12 +8,17 @@ function App() {
   const [count, setCount] = useState(0)
   const size=5;
   console.log(size)
+  console.log(size*7)
+
   console.log('hello')
   console.log('newMiri')
-  const a=[1,2,3];
-  console.log(a)
+ 
   console.log('second confilct')
 
+  console.log(index.toString())
+  console.log('first')
+  const arr=[1,2,3];
+  console.log(arr)
   return (
     <>
       <div>
