@@ -7,11 +7,10 @@ import './a.html'
 function App() {
   const [count, setCount] = useState(0)
   const g=5;
-  console.log(g*7)
-  console.log(index.toString())
-  console.log('first')
-  const arr=[1,2,3];
-  console.log(arr)
+  console.log('hello')
+  console.log('newMiri')
+  const a=[1,2,3];
+  console.log(a)
   return (
     <>
       <div>
